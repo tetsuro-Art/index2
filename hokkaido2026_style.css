@@ -16,7 +16,7 @@ h2 {
     font-size: 30px;
 }
      a {
-     color: rgb(255, 80, 80);
+     color: rgb(241, 189, 189);
      font-size: 25px;
      }
 table {
@@ -24,10 +24,14 @@ table {
     font-size: 25px;
 }
 ul {
-    color: rgb(250, 6, 6);
+    color: rgb(255, 255, 255);
     font-size: 25px;
 }
 h4 {
-    color:rgb(250, 6, 6);
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+}
+h3 {
+    color:rgb(255, 255, 255);
     font-size: 25px;
 }
